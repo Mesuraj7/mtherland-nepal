@@ -1,0 +1,48 @@
+body
+        {
+            font-family: sans-serif;
+            font-size: 1em;
+            line-height: 1.5em;
+        }
+        header
+        {
+            background-color:lemonchiffon;
+            color:rgb(14, 35, 223);
+            padding: 5px;
+            text-align: center;
+           text-transform: uppercase;
+ }
+ nav
+ {
+     line-height: 30px;
+     background-color: lightslategray;
+     width: 150px;
+     height: 450px;
+     float: left;
+     padding: 5px;
+}
+section 
+{
+    width: 350px;
+    float: left;
+    padding: 10px;
+}
+footer
+{
+    background-color: maroon;
+    color: mintcream;
+    clear: both;
+    text-align:center;
+    padding: 5px;
+    font-size: 0.75em;
+    font-style:italic;
+}
+img
+{
+    width: 500px;
+    padding: 10px;
+}
+{
+    back
+
+}
